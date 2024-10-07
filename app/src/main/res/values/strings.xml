@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotlinLearn</string>
+    <string name="seekbar_preference">seekbar_preference</string>
+</resources>
